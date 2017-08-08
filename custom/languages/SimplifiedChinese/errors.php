@@ -14,11 +14,11 @@ $language = array(
 	/*
 	 *  Errors
 	 */
-	'404_title' => 'Sorry!',
-	'404_content' => 'We couldn\'t find that page.',
-	'404_back' => 'Go back',
-	'404_home' => 'Home',
-	'404_error' => 'If you believe this to be an error, {x}please contact an administrator{y}', // Don't replace {x} or {y}
-    'maintenance_title' => 'Maintenance mode.',
-    'maintenance_retry' => 'Retry'
+	'404_title' => '对不起!',
+	'404_content' => '我们找不到该页面.',
+	'404_back' => '返回',
+	'404_home' => '主页',
+	'404_error' => '如果你认为这是一个错误, {x}请联系网站管理员{y}', // Don't replace {x} or {y}
+    'maintenance_title' => '维护模式.',
+    'maintenance_retry' => '重试'
 );
